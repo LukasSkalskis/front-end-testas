@@ -1,0 +1,46 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 100%;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    width: 100%; 
+    border: 1px solid #ccc;
+}
+
+
+div.form-row > input {
+    border: none;
+    color:#3A52F4;
+}
+
+div.form-row > input:focus {
+    
+    outline: none;
+}
+
+.form-row > .forget {
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    color: #ccc;
+}
+
+.form-row > .remember {
+    color: #ccc;
+}
+
+.check {
+    margin-top: 20px;
+    display: inline-block;
+    border: none;
+}
+
+
+
+
+

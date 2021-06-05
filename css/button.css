@@ -1,0 +1,30 @@
+.button {
+    display: inline-block;
+    border: none;
+    margin-top: 40px;
+}
+
+.sign-up-link {
+    text-decoration: none;
+}
+
+.login {
+    
+    width: 120px;
+    height: 40px;
+    background-color: #3A52F4;
+    border-radius: 3%;
+    border: 1px solid #3A52F4;
+    color: white;
+}
+
+.sign-up {
+    width: 120px;
+    height: 40px;
+    margin-left: 30px;
+    background-color: white;
+    text-decoration: none;
+    color: #3A52F4;
+    border-radius: 3%;
+    border: 1px solid #3A52F4;
+} 
